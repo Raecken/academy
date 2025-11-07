@@ -1,0 +1,4 @@
+CompileFlags:
+  Add:
+    - -I/home/contraboi/Documents/Work/academy/lib
+    - -std=c11
