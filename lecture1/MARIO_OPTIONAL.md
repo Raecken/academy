@@ -23,7 +23,7 @@ For h = 1
 For h = 2
    #  #
   ##  ##
-
+```
 For h = 8
        #  #
       ##  ##
@@ -33,6 +33,7 @@ For h = 8
   ######  ######
  #######  #######
 ########  ########
+```
 
 Note: No trailing spaces at line ends.
 
